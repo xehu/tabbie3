@@ -27,7 +27,7 @@ The program requires two files: debater_class.py and tabbie3.py.
 
 3. TECHNICAL REQUIREMENTS
 
-The program runs Python 3.4. The following imported modules are required for the program: (1) PyPDF2;(2) re; (3) pprint. 
+The program runs Python 3.4. The following imported modules are required for the program: (1) PyPDF2 (2) re (3) pprint. 
 
 PyPDF2 is required to read in the PDF and parse it for text; re (often pre-installed with Python 3.4) is used to evaluate regular expressions; and pprint is used to Pretty Print the results into a readable table.
 
