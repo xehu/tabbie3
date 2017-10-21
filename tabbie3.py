@@ -2,11 +2,8 @@
 File: tabbie3.py
 
 Names: Michael Cooper and Emily Hu
-SUIDs: coopermj, xehu
-
 --------------------------------
-Upon being run, this script prompts the user to enter in the name of a PDF file which will 
-be read.
+Description: Upon being run, this script prompts the user to enter in the name of a PDF file which will be read.
 
 The PDF file for reading is a tab card - a list of debaters and their respective performances
 in each round of debate at a given tournament.
